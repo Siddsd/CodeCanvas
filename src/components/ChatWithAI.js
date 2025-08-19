@@ -37,8 +37,7 @@
 
 //   const generateAnswer = async () => {
 //     const response = await axios({
-//       url: "https://generativelanguage.googleapis.com/v1beta/models/gemini-pro:generateContent?key=AIzaSyCCqxW8b7yEL5Y6jougbcGkVTRWsL5lixY",
-//       method: "post",
+//       url:  "post",
 //       data: {
 //         contents: [{ parts: [{ text: newMessage }] }],
 //       },
