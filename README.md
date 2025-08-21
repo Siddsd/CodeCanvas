@@ -1,23 +1,32 @@
-CodeCanvas
+# CodeCanvas
 
-CodeCanvas is a collaborative web application designed to provide a seamless development environment for teams. It enables developers to create, manage, and share coding projects effortlessly while working together in real-time.
+**A real-time collaborative web IDE with AI assistance**
 
-🚀 Features
+**CodeCanvas** is a collaborative web application designed to provide a seamless development environment for teams. It allows multiple developers to work together in real time, boosting productivity and collaboration with built-in tools and AI assistance.
 
-Real-time Collaboration: Multiple users can edit code simultaneously in real-time.
+---
 
-Integrated Development Environment (IDE): Built-in code editor with syntax highlighting and error detection.
+## ​ Features
 
-Collaborative Code Editor: Uses CodeMirror and WebSockets for smooth collaboration, including real-time chat and PDF sharing.
+- **Real-time Collaboration**  
+  Multiple users can simultaneously view and edit code, enabling smoother team interaction and faster ideation cycles.
 
-AI Assistant: Integrated Google Generative AI API helps users code efficiently.
+- **Built-in Code Editor**  
+  Leverages **CodeMirror** for syntax highlighting, error detection, and other essential IDE features—all within the browser.
 
-🛠️ Technologies Used
+- **Instant Communication & File Sharing**  
+  Real-time chat and PDF sharing streamline collaboration without leaving the coding interface.
 
-Frontend: HTML, CSS, JavaScript
+- **AI Coding Assistant**  
+  Integration with the **Google Generative AI API** helps auto-complete, suggest, or generate code snippets, accelerating development.
 
-Backend: Node.js, Express
+- **Modern Tech Stack**  
+  - **Frontend**: HTML, CSS, JavaScript  
+  - **Backend**: Node.js + Express  
+  - **Communication**: WebSockets for seamless real-time updates
 
-Database: MongoDB
+---
 
-Collaboration: WebSockets, CodeMirror
+##  Prerequisites
+- Google Generative AI API credentials (if you plan to use AI features)
+
